@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AreaCirculoAppMvvm.")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+09ea1be3bf831e3f3a64ceaec4fc758de1f8f570")]
 [assembly: System.Reflection.AssemblyProductAttribute("AreaCirculoAppMvvm.")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AreaCirculoAppMvvm.")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
